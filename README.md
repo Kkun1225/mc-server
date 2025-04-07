@@ -26,8 +26,8 @@
 
 接下来我们来选配服务器
 
-![屏幕截图 2025-04-07 155347](https://github.com/user-attachments/assets/8496fc11-74fe-4e54-847e-1c7eb4bcab17)
+![屏幕截图 2025-04-07 155347(1)](https://github.com/user-attachments/assets/20f6c432-c156-480e-95a8-42aa0f949ac2)
 
-![屏幕截图 2025-04-07 160402](https://github.com/user-attachments/assets/452a9423-a9c5-498c-88a5-5fd851b706b3)
+![屏幕截图 2025-04-07 160402(1)](https://github.com/user-attachments/assets/9440bae9-9685-4e6b-b46e-e165fe3e846b)
 
-![屏幕截图 2025-04-07 161116](https://github.com/user-attachments/assets/8f12822f-c2b1-4f3c-9c26-c6584c353041)
+![屏幕截图 2025-04-07 161116(1)](https://github.com/user-attachments/assets/6a41c485-4c09-4baf-85ab-5772c4e4ced3)
