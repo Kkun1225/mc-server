@@ -6,7 +6,7 @@
 
 本章分为三节
 
-第一节、搭建云服务器平台
+([第一节、搭建云服务器平台](https://github.com/Kkun1225/mc-server/blob/main/README.md#%E7%AC%AC%E4%B8%80%E8%8A%82%E6%90%AD%E5%BB%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B3%E5%8F%B0))
 
 第二节、部署mc服务框架
 
