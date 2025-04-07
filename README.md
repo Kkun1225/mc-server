@@ -76,14 +76,71 @@
 
 ### 由于框架是java脚本来编译的，所以接下来我们要在云服务器中安装JDK21
 
-在终端输入以下
+在终端输入以下(sudo后要输入我们的服务器管理员密码)
 
 ```
-sudo apt update #更新ubuntu apt
-sudo apt install openjdk-17-jdk #安装JDK21
+sudo apt update -y #更新ubuntu apt
+sudo apt install openjdk-21-jdk -y #安装JDK21
 java -version # 查看jdk版本验证是否安装成功
 ```
 
+回车后等待(大约下载5分钟)，如输出一下内容 代表我们的JDK21已经安装在云服务器中了
+
+![屏幕截图 2025-04-07 172427](https://github.com/user-attachments/assets/33c6c961-7e0e-4117-9c88-2f8d67dc84c8)
 
 
+### 接下来编译我的世界服务器的框架
 
+浏览器回到([Fabric服务器下载界面](https://fabricmc.net/use/server/))
+
+复制以下界面的第二段代码框内容
+
+![屏幕截图 2025-04-07 172943](https://github.com/user-attachments/assets/f944ed06-666b-4af8-8a72-3f71d83030fd)
+
+回到终端，粘贴进来并回车
+
+![屏幕截图 2025-04-07 173243](https://github.com/user-attachments/assets/458b821b-dfdc-492f-b069-99ebdc35570e)
+
+显示Downloading Minecraft server 表示正在下载我的世界服务器 （如失败请查看jdk是否版本匹配你的mc服务器版本）
+
+下载完成后的的界面
+
+![屏幕截图 2025-04-07 173623](https://github.com/user-attachments/assets/b61743b5-ce89-4d33-ae4a-a93a5916d02d)
+
+### 接下来我们要进入修改一下配置
+
+```
+vim eula.txt # 云服务器中没有vim编辑器的话请下载或vi eula.txt
+```
+
+进入eula.txt后
+
+![屏幕截图 2025-04-07 183511(1)](https://github.com/user-attachments/assets/37aeb6df-252c-470e-95f0-81a7b2d1dd41)
+
+按esc键 再按shift+： 再按wq键回车保存退出
+
+### 接下来我们进入我的世界服务器配置文件
+
+```
+vim server.properties
+```
+
+![屏幕截图 2025-04-07 184247](https://github.com/user-attachments/assets/41908456-0903-40f7-8236-a988bd57c60a)
+
+按esc键 再按shift+： 再按wq键回车保存退出
+
+### ok大功告成，接下来我们就差启动服务器了
+
+我们再回到([Fabric服务器下载界面](https://fabricmc.net/use/server/))
+
+再次复制以下界面的第二段代码框内容
+
+![屏幕截图 2025-04-07 172943](https://github.com/user-attachments/assets/f944ed06-666b-4af8-8a72-3f71d83030fd)
+
+再次回到终端，粘贴进来并回车
+
+当回车后看到以下内容时代表我们的服务器以圆满搭建完成并成功启动了它
+
+![屏幕截图 2025-04-07 185105](https://github.com/user-attachments/assets/da29709d-9684-45c9-8f54-a162448a4f3e)
+
+## ●第四节、测试
