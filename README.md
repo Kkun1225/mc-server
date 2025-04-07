@@ -7,7 +7,7 @@
 
 # 章节
 
-## 本章分为三节
+本章分为三节
 
 ([●第一节、搭建云服务器平台](https://github.com/Kkun1225/mc-server/blob/main/README.md#%E7%AC%AC%E4%B8%80%E8%8A%82%E6%90%AD%E5%BB%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B3%E5%8F%B0))
 
@@ -17,7 +17,7 @@
 
 ----------------
 
-## 第一节、搭建云服务器平台
+## ●第一节、搭建云服务器平台
 
 作者在本章中使用腾讯云服务器来教大家
 
@@ -47,5 +47,20 @@
 ### 接下来就可以看到我们选配的服务器
 
 ![屏幕截图 2025-04-077 163301](https://github.com/user-attachments/assets/0ae52c70-1e4f-4ab5-9cda-bbbea88bde18)
+
+### 在电脑本地链接你的云服务器
+
+这里作者使用的是MobaXterm终端，如果需要请自行([MobaXterm](https://mobaxterm.mobatek.net/))官网下载
+
+![屏幕截图 2025-04-07 164305(1)](https://github.com/user-attachments/assets/203e6cf4-3c41-4e33-bcb6-4031e3178005)
+
+![屏幕截图 2025-04-07 165134(1)](https://github.com/user-attachments/assets/67c59f31-7573-4248-89f1-109c307fb547)
+
+### 看到下面界面代表已经连接到我们的云服务器了
+
+![屏幕截图 2025-04-07 165542](https://github.com/user-attachments/assets/388838e5-74b8-41bb-8870-fffa7039c933)
+
+
+## ●第二节、部署mc服务框架
 
 
