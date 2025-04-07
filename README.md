@@ -7,11 +7,11 @@
 
 # 章节
 
-本章分为三节
+本章分为三节。如果自己已有云服务器或本地部署，请跳过第一节
 
 ([●第一节、搭建云服务器平台](https://github.com/Kkun1225/mc-server/blob/main/README.md#%E7%AC%AC%E4%B8%80%E8%8A%82%E6%90%AD%E5%BB%BA%E4%BA%91%E6%9C%8D%E5%8A%A1%E5%99%A8%E5%B9%B3%E5%8F%B0))
 
-([●第二节、部署mc服务框架]())
+([●第二节、部署mc服务框架](https://github.com/Kkun1225/mc-server/blob/main/README.md#%E7%AC%AC%E4%BA%8C%E8%8A%82%E9%83%A8%E7%BD%B2mc%E6%9C%8D%E5%8A%A1%E6%A1%86%E6%9E%B6))
 
 ([●第四节、测试]())
 
@@ -60,7 +60,22 @@
 
 ![屏幕截图 2025-04-07 165542](https://github.com/user-attachments/assets/388838e5-74b8-41bb-8870-fffa7039c933)
 
+----------------
 
 ## ●第二节、部署mc服务框架
+
+本章搭建我的世界服务器基于Fabric，使用相关说明请查看([Fabric](https://fabricmc.net/))官网进行阅读
+
+我们进入([Fabric服务器下载界面](https://fabricmc.net/use/server/))
+
+![屏幕截图 2025-04-07 170640(1)](https://github.com/user-attachments/assets/45bc3fa4-34d0-4440-bbed-ad7181ffa1e9)
+
+粘贴到服务器终端 回车，如下图所示，代表框架下载成功
+
+![屏幕截图 2025-04-07 171019](https://github.com/user-attachments/assets/41855cf6-948b-43d3-b041-fdca5b59c470)
+
+### 接下来我们要
+
+
 
 
