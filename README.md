@@ -74,7 +74,15 @@
 
 ![屏幕截图 2025-04-07 171019](https://github.com/user-attachments/assets/41855cf6-948b-43d3-b041-fdca5b59c470)
 
-### 接下来我们要
+### 由于框架是java脚本来编译的，所以接下来我们要在云服务器中安装JDK21
+
+在终端输入以下
+
+```
+sudo apt update #更新ubuntu apt
+sudo apt install openjdk-17-jdk #安装JDK21
+java -version # 查看jdk版本验证是否安装成功
+```
 
 
 
