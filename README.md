@@ -18,4 +18,4 @@
 
 作者在本章中使用腾讯云服务器来教大家
 
-这里我们进入(txy)[https://cloud.tencen.com/]
+这里我们进入((txy)[https://cloud.tencen.com/])
