@@ -143,4 +143,30 @@ vim server.properties
 
 ![屏幕截图 2025-04-07 185105](https://github.com/user-attachments/assets/da29709d-9684-45c9-8f54-a162448a4f3e)
 
+## 大功告成，接下来我们要开放一下云服务器的我的世界服务端口以便客户端加入
+
+![屏幕截图 2025-04-07 190045(1)](https://github.com/user-attachments/assets/730a2314-43a7-428b-854f-eb0b6cc07f18)
+
+![屏幕截图 2025-04-07 190555](https://github.com/user-attachments/assets/1df9aab1-96a3-4342-bb2f-fb7fba39feee)
+
+点击确定，就此你的mc服务器已搭好并开放了端口可以进行与小伙伴们联机了
+
+----------------
+
 ## ●第四节、测试
+
+我们打开我的世界启动器下载与服务器对应的版本后启动它
+
+依次点击游戏   多人游戏—————添加服务器—————输入你云服务器的IP（以下内容）
+
+![屏幕截图 2025-04-07 191214](https://github.com/user-attachments/assets/0e9c1c8e-f527-4202-be4e-aa6083169454)
+
+添加后进入游戏
+
+![屏幕截图 2025-04-07 191332](https://github.com/user-attachments/assets/fa7e04e3-ca68-47ef-bfd3-a3a4389aefe6)
+
+### 测试完毕，本章到此end，愿诸位都能完美成功，拜了个拜
+
+----------------
+
+作者：Kkun
