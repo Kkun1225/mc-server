@@ -21,7 +21,7 @@
 
 这里我们进入([腾讯云](https://cloud.tencen.com/))官网并登陆
 
-# 在web页面中下滑点击轻量应用服务器
+### 在web页面中下滑点击轻量应用服务器
 
 ![屏幕截图 2025-04-07 154710](https://github.com/user-attachments/assets/577b3c9d-e700-42b2-8e20-6d7b5b230644)
 
@@ -34,15 +34,15 @@
 ![屏幕截图 2025-04-07 161116(1)](https://github.com/user-attachments/assets/6a41c485-4c09-4baf-85ab-5772c4e4ced3)
 
 
-# 点击右上角进入 控制台
+### 点击右上角进入 控制台
 
 ![屏幕截图 2025-04-07 163016](https://github.com/user-attachments/assets/80073ba9-51c3-4f09-b52e-0b3029b71e5f)
 
-# 点击轻量应用服务器
+### 点击轻量应用服务器
 
 ![屏幕截图 2025-04-07 163156](https://github.com/user-attachments/assets/efbe1304-0850-4d68-a050-dd4ee9794c8b)
 
-# 接下来就可以看到我们选配的服务器
+### 接下来就可以看到我们选配的服务器
 
 ![屏幕截图 2025-04-077 163301](https://github.com/user-attachments/assets/0ae52c70-1e4f-4ab5-9cda-bbbea88bde18)
 
